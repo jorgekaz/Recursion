@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1661293175 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\guias\factorialrecursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661562258 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\guias\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661641248 source:c:\users\jorge\streaming de google drive\otros ordenadores\mi pc\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\guias\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1662148694 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practivos\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1661960199 source:c:\users\jorge\streaming de google drive\otros ordenadores\mi pc\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practivos\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
